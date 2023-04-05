@@ -85,12 +85,15 @@
 }
 .green-box {
   background: #00ff51;
+  order: 1;
 }
 .yellow-box {
   background: #d4ff00;
+  order: 2;
 }
 .pink-box {
   background: #ff00e1;
+  order: 3;
 }
 .flex-box_switch p {
   display: inline-block;
